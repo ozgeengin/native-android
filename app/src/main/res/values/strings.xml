@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example Application</string>
+    <string name="SharedPreference">example.ozgeengin.com.exampleapplication.storage.SP</string>
+    <string name="server_url">https://jsonplaceholder.typicode.com/</string>
+</resources>
